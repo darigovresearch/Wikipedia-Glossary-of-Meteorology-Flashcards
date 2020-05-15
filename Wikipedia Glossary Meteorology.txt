@@ -1,4 +1,3 @@
-<dl class="glossary">
 <dt class="glossary" id="advection" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Advection#Meteorology" title="Advection">advection</a></dfn></dt>
 <dd class="glossary">The horizontal transport of some property of the <a href="#atmosphere"><span title="See entry on this page at § atmosphere" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atmosphere</span></a> or <a href="/wiki/Ocean" title="Ocean">ocean</a>, such as <a href="/wiki/Thermal_energy" title="Thermal energy">thermal energy</a>, <a href="#humidity"><span title="See entry on this page at § humidity" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">humidity</span></a>, or <a href="/wiki/Salinity" title="Salinity">salinity</a>. In the context of meteorology, the related term <b>convection</b> generally refers to vertical transport.</dd>
 <dt class="glossary" id="actinoform" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Actinoform_cloud" title="Actinoform cloud">actinoform</a></dfn></dt>
@@ -91,8 +90,6 @@
 <dt class="glossary" id="aviation_area_forecast_(fa_or_arfor)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Area_forecast" title="Area forecast">Aviation Area Forecast</a> (FA or ARFOR)</dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also simply called an <b>area forecast</b>.</span></p>
 <dd class="glossary">A former message product of the U.S. <a href="#national_Weather_Service"><span title="See entry on this page at § National Weather Service" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">National Weather Service</span></a> issued to provide information to pilots and aviation routes about weather conditions across a large regional area within the United States. FAs were issued three times daily, valid for 18 hours and covered an area the size of several states. They were replaced by Graphic Area Forecasts (GFAs) in 2017.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="backscatter" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Backscatter" title="Backscatter">backscatter</a></dfn></dt>
 <dd class="glossary">The <a href="/wiki/Diffuse_reflection" title="Diffuse reflection">diffuse reflection</a> of waves, particles, or signals back to the same direction from which they originated. Backscattering is the principle underlying all <a href="#weather_radar"><span title="See entry on this page at § weather radar" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">weather radar</span></a> systems, which can distinguish radar returns backscattered from target <a href="#aerosol"><span title="See entry on this page at § aerosol" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">aerosols</span></a> such as raindrops and snowflakes because the strength of the returns depends largely on the size and reflectivity of the targets.</dd>
 <dt class="glossary" id="ball_lightning" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ball_lightning" title="Ball lightning">ball lightning</a></dfn></dt>
@@ -144,8 +141,6 @@
 <dd class="glossary">See <i><a href="#wildfire"><span title="See entry on this page at § wildfire" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">wildfire</span></a></i>.</dd>
 <dt class="glossary" id="buys_ballot&#39;s_law" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Buys_Ballot%27s_law" title="Buys Ballot&#39;s law">Buys Ballot's law</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="canadian_meteorological_and_oceanographic_society_(cmos)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Canadian_Meteorological_and_Oceanographic_Society" title="Canadian Meteorological and Oceanographic Society">Canadian Meteorological and Oceanographic Society</a> (CMOS)</dfn></dt>
 <dd class="glossary">The national society of individuals and organizations dedicated to advancing atmospheric and oceanic sciences and related environmental disciplines in <a href="/wiki/Canada" title="Canada">Canada</a>, officially constituted in 1967.</dd>
 <dt class="glossary" id="canadian_meteorological_centre_(cmc)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Canadian_Meteorological_Centre" title="Canadian Meteorological Centre">Canadian Meteorological Centre</a> (CMC)</dfn></dt>
@@ -266,8 +261,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="cyclogenesis" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cyclogenesis" title="Cyclogenesis">cyclogenesis</a></dfn></dt>
 <dd class="glossary">The development or strengthening of a <a href="#cyclonic_rotation"><span title="See entry on this page at § cyclonic rotation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cyclonic circulation</span></a> in the atmosphere. Cyclogenesis may refer to a number of different processes that occur under a variety of conditions and at a variety of scales, all of which result in the formation of some sort of <a href="#cyclone"><span title="See entry on this page at § cyclone" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cyclone</span></a>; for instance, <a href="#tornado"><span title="See entry on this page at § tornado" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tornadoes</span></a> are a type of <a href="#mesocyclone"><span title="See entry on this page at § mesocyclone" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mesocyclone</span></a> whose development may be variously described as cyclogenesis or, more specifically, <a href="#tornadogenesis"><span title="See entry on this page at § tornadogenesis" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tornadogenesis</span></a>. Contrast <i><a href="#anticyclogenesis"><span title="See entry on this page at § anticyclogenesis" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">anticyclogenesis</span></a></i>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="dark_adaptor_goggles" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dark_adaptor_goggles" title="Dark adaptor goggles">dark adaptor goggles</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>red adaptation goggles</b>.</span></p>
 <dd class="glossary">A type of specialized eyewear used by meteorologists and astronomers for adapting the eyes <a href="/wiki/Adaptation_(eye)#Dark_adaptation" title="Adaptation (eye)">to the dark</a> prior to an observation made at night, or for aiding with identification of <a href="#cloud"><span title="See entry on this page at § cloud" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">clouds</span></a> during bright sunshine or when there is a glare from snow.</dd>
@@ -346,8 +339,6 @@
 <dt class="glossary" id="dust_storm" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dust_storm" title="Dust storm">dust storm</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called a <b>duster</b> or rendered <b>duststorm</b>.</span></p>
 <dd class="glossary">A meteorological phenomenon characterized by very strong winds that blow dust-filled air over an extensive area. Dust storms arise when a <a href="#outflow_boundary"><span title="See entry on this page at § outflow boundary" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">gust front</span></a> or other strong wind blows loose dirt, sand, and/or small rocks from a dry surface into the atmosphere, drastically reducing visibility. Though the term is sometimes restricted to storms occurring over normally arable land suffering from <a href="#drought"><span title="See entry on this page at § drought" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">drought</span></a>, it is also used interchangeably with <a href="#sandstorm"><span title="See entry on this page at § sandstorm" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sandstorm</span></a> and <a href="#haboob"><span title="See entry on this page at § haboob" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">haboob</span></a>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="echo" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Radar_signal_characteristics" title="Radar signal characteristics">echo</a></dfn></dt>
 <dd class="glossary">On a <a href="/wiki/Radar" title="Radar">radar</a> display, the appearance of the radio signal that is scattered or reflected by a target. The distinct characteristics of a radar echo can be used to identify the distance and velocity of the target with respect to the signal source as well as the target's size, shape, and composition.</dd>
 <dt class="glossary" id="eddy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">eddy</a></dfn></dt>
@@ -424,8 +415,6 @@
 <dd class="glossary">A typically circular region at the center of a strong <a href="#tropical_cyclone"><span title="See entry on this page at § tropical cyclone" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tropical cyclone</span></a> that is the location of the storm's lowest <a href="#atmospheric_pressure"><span title="See entry on this page at § atmospheric pressure" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">barometric pressure</span></a>. The eye is usually characterized by light winds, clear skies, and mostly calm weather, in stark contrast to the severe weather that occurs in the surrounding <a href="#eyewall"><span title="See entry on this page at § eyewall" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">eyewall</span></a> and the rest of the storm.</dd>
 <dt class="glossary" id="eyewall" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Eyewall" class="mw-redirect" title="Eyewall">eyewall</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="fall_wind" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fall_wind" class="mw-redirect" title="Fall wind">fall wind</a></dfn></dt>
 <dd class="glossary">See <i><a href="#katabatic_wind"><span title="See entry on this page at § katabatic wind" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">katabatic wind</span></a></i>.</dd>
 <dt class="glossary" id="fata_morgana" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fata_Morgana_(mirage)" title="Fata Morgana (mirage)">Fata Morgana</a></dfn></dt>
@@ -489,8 +478,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="funnel_cloud" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Funnel_cloud" title="Funnel cloud">funnel cloud</a></dfn></dt>
 <dd class="glossary">A <a href="/wiki/Funnel" title="Funnel">funnel</a>-shaped <a href="#cloud"><span title="See entry on this page at § cloud" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cloud</span></a> associated with a rotating column of air and protruding from the <a href="#cloud_base"><span title="See entry on this page at § cloud base" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">base</span></a> of a parent cloud but not reaching the ground or a water surface. Funnel clouds form most frequently in association with <a href="#supercell_thunderstorm"><span title="See entry on this page at § supercell thunderstorm" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">supercell thunderstorms</span></a> and often develop into <a href="#tornado"><span title="See entry on this page at § tornado" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tornadoes</span></a>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="gale" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gale" title="Gale">gale</a></dfn></dt>
 <dd class="glossary">A strong surface <a href="#wind"><span title="See entry on this page at § wind" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">wind</span></a>, typically used as a descriptor in nautical contexts. Gales are variously defined based on their <a href="#wind_speed"><span title="See entry on this page at § wind speed" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">speed</span></a>; in the modern <a href="#beaufort_scale"><span title="See entry on this page at § Beaufort scale" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Beaufort scale</span></a>, <a href="#sustained_wind"><span title="See entry on this page at § sustained wind" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sustained winds</span></a> of 28–33&#160;kn (52–61&#160;km/h; 32–38&#160;mph), Beaufort number 7, are designated as <b>near gales</b> and those of 34–47&#160;kn (63–87&#160;km/h; 39–54&#160;mph), spanning Beaufort numbers 8 and 9, as gales.</dd>
 <dt class="glossary" id="gale_warning" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gale_warning" title="Gale warning">gale warning</a></dfn></dt>
@@ -524,8 +511,6 @@
 <dd class="glossary">See <i><a href="#outflow_boundary"><span title="See entry on this page at § outflow boundary" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">outflow boundary</span></a></i>.</dd>
 <dt class="glossary" id="gustnado" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gustnado" title="Gustnado">gustnado</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="haboob" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Haboob" title="Haboob">haboob</a></dfn></dt>
 <dd class="glossary"></dd>
 <div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hail_storm_3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hail_storm_3.jpg/220px-Hail_storm_3.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hail_storm_3.jpg/330px-Hail_storm_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hail_storm_3.jpg/440px-Hail_storm_3.jpg 2x" data-file-width="2160" data-file-height="1440" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hail_storm_3.jpg" class="internal" title="Enlarge"></a></div>Numerous <a href="#hail"><span title="See entry on this page at § hail" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hailstones</span></a> accumulated on the ground following a hailstorm</div></div></div>
@@ -596,8 +581,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="hypsometer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hypsometer" title="Hypsometer">hypsometer</a></dfn></dt>
 <dd class="glossary">A scientific instrument used to measure height or elevation, either by trigonometry or by the principle that <a href="#atmospheric_pressure"><span title="See entry on this page at § atmospheric pressure" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">atmospheric pressure</span></a> influences the <a href="/wiki/Boiling_point" title="Boiling point">boiling point</a> of liquids.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="ice" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ice" title="Ice">ice</a></dfn></dt>
 <dd class="glossary">Water <a href="/wiki/Freezing" title="Freezing">frozen</a> into a solid state. Ice is abundant on Earth's surface and in the atmosphere and plays a major role in Earth's <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a> and <a href="#climate"><span title="See entry on this page at § climate" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">climate</span></a>. Its natural occurrence in weather phenomena takes many forms, including <a href="#snowflake"><span title="See entry on this page at § snowflake" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">snowflakes</span></a>, <a href="#hail"><span title="See entry on this page at § hail" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hail</span></a>, <a href="#frost"><span title="See entry on this page at § frost" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">frost</span></a>, <a href="#icicle"><span title="See entry on this page at § icicle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">icicles</span></a>, and <a href="#ice_spike"><span title="See entry on this page at § ice spike" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">ice spikes</span></a>.</dd>
 <dt class="glossary" id="iceberg" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Iceberg" title="Iceberg">iceberg</a></dfn></dt>
@@ -632,12 +615,8 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="irisation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Irisation" class="mw-redirect" title="Irisation">irisation</a></dfn></dt>
 <dd class="glossary">See <i><a href="#cloud_iridescence"><span title="See entry on this page at § cloud iridescence" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cloud iridescence</span></a></i>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="jet_stream" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jet_stream" title="Jet stream">jet stream</a></dfn></dt>
 <dd class="glossary">A narrow, fast-flowing, meandering air current primarily occurring in the upper part of the <a href="#troposphere"><span title="See entry on this page at § troposphere" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">troposphere</span></a>, at altitudes above 9&#160;km (30,000&#160;ft), and usually flowing from west to east. The Northern and Southern Hemispheres each have a <b>polar jet</b> and a <b>subtropical jet</b>; <a href="#low-level_jet"><span title="See entry on this page at § low-level jet" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">low-level jets</span></a> and other types of jet streams can form under certain conditions.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="k-index" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/K-index" title="K-index">K-index</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="&#39;`UNIQ--math-0000018A-QINU`&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Weather_radar#Polarization" title="Weather radar"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle K_{DP}}">
@@ -670,8 +649,6 @@
 <dd class="glossary">A branch of <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a> that describes the motion of points, bodies, and systems of bodies without considering the forces that caused the motion.</dd>
 <dt class="glossary" id="köppen_climate_classification" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="&#39;`UNIQ--math-0000018C-QINU`&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Weather_radar#Polarization" title="Weather radar"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle L_{DR}}">
   <semantics>
     <mrow class="MJX-TeXAtom-ORD">
@@ -745,8 +722,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="lysimeter" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lysimeter" title="Lysimeter">lysimeter</a></dfn></dt>
 <dd class="glossary">An instrument used to measure the total amount of <a href="/wiki/Evapotranspiration" title="Evapotranspiration">evapotranspiration</a> that occurs within a certain area of the Earth's surface, usually by recording the amount of precipitation received by the area and the amount of moisture subsequently lost through the soil.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="mafor" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/MAFOR" title="MAFOR">MAFOR</a></dfn></dt>
 <dd class="glossary">A North American system used in the transmission of marine <a href="#weather_forecasting"><span title="See entry on this page at § weather forecasting" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">weather forecasts</span></a> to compress large amounts of information about meteorological and marine conditions, including visibility, expected future wind speed and direction, the "state of sea", and the period of validity of the forecast, into shorter code for convenience during radio broadcasting. MAFOR is an abbreviation of <b>MA</b>rine <b>FOR</b>ecast.</dd>
 <dt class="glossary" id="marine_cloud_brightening" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Marine_cloud_brightening" title="Marine cloud brightening">marine cloud brightening</a></dfn></dt>
@@ -825,8 +800,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="murus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Wall_cloud" title="Wall cloud">murus</a></dfn></dt>
 <dd class="glossary">See <i><a href="#wall_cloud"><span title="See entry on this page at § wall cloud" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">wall cloud</span></a></i>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="national_center_for_atmospheric_research_(ncar)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/National_Center_for_Atmospheric_Research" title="National Center for Atmospheric Research">National Center for Atmospheric Research</a> (NCAR)</dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="national_centers_for_environmental_prediction_(ncep)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/National_Centers_for_Environmental_Prediction" title="National Centers for Environmental Prediction">National Centers for Environmental Prediction</a> (NCEP)</dfn></dt>
@@ -871,8 +844,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="numerical_weather_prediction" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Numerical_weather_prediction" title="Numerical weather prediction">numerical weather prediction</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="occluded_front" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Occluded_front" title="Occluded front">occluded front</a></dfn></dt>
 <dd class="glossary">A type of <a href="#front"><span title="See entry on this page at § front" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">front</span></a> formed during the process of <a href="#cyclogenesis"><span title="See entry on this page at § cyclogenesis" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cyclogenesis</span></a> when a <a href="#cold_front"><span title="See entry on this page at § cold front" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cold front</span></a> overtakes a <a href="#warm_front"><span title="See entry on this page at § warm front" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">warm front</span></a>. Occluded fronts usually form around mature <a href="#low-pressure_area"><span title="See entry on this page at § low-pressure area" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">low-pressure areas</span></a> when a warm <a href="#air_mass"><span title="See entry on this page at § air mass" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">air mass</span></a> is physically separated (or "occluded") from the cyclonic center at the Earth's surface by the intervention of a cooler air mass; the warmer air is lifted into a <a href="#trowal"><span title="See entry on this page at § trowal" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">trough of warm air aloft</span></a>. In <a href="#surface_weather_analysis"><span title="See entry on this page at § surface weather analysis" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">surface weather analysis</span></a>, occluded fronts are symbolized by various combinations of the symbols for cold and warm fronts.</dd>
 <dt class="glossary" id="okta" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Okta" title="Okta">okta</a></dfn></dt>
@@ -903,8 +874,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="ozone_layer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ozone_layer" title="Ozone layer">ozone layer</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="paleoclimatology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Paleoclimatology" title="Paleoclimatology">paleoclimatology</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="pan_evaporation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pan_evaporation" title="Pan evaporation">pan evaporation</a></dfn></dt>
@@ -1008,8 +977,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="pyrheliometer" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pyrheliometer" title="Pyrheliometer">pyrheliometer</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="q-vector" style="margin-top: 0.4em;"><dfn class="glossary">Q-vector</dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="quantitative_precipitation_estimation_(qpe)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantitative_precipitation_estimation" title="Quantitative precipitation estimation">quantitative precipitation estimation</a> (QPE)</dfn></dt>
@@ -1022,8 +989,6 @@
 <dd class="glossary">See <i><a href="#squall_line"><span title="See entry on this page at § squall line" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">squall line</span></a></i>.</dd>
 <dt class="glossary" id="quasistatic_approximation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quasistatic_approximation" title="Quasistatic approximation">quasistatic approximation</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="radiation_fog" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fog#Types" title="Fog">radiation fog</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="radiosonde" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Radiosonde" title="Radiosonde">radiosonde</a></dfn></dt>
@@ -1093,8 +1058,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="rotation" style="margin-top: 0.4em;"><dfn class="glossary">rotation</dfn></dt>
 <dd class="glossary">See <i><a href="#cyclonic_rotation"><span title="See entry on this page at § cyclonic rotation" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cyclonic rotation</span></a></i>.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="saffir–simpson_scale" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Saffir%E2%80%93Simpson_scale" title="Saffir–Simpson scale">Saffir–Simpson scale</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="sandstorm" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Sandstorm" class="mw-redirect" title="Sandstorm">sandstorm</a></dfn></dt>
@@ -1246,8 +1209,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="synoptic_scale_meteorology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Synoptic_scale_meteorology" title="Synoptic scale meteorology">synoptic scale meteorology</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="tail_cloud" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Wall_cloud#Associated_features" title="Wall cloud">tail cloud</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called a <b>cauda</b>.</span></p>
 <dd class="glossary">A ragged band of <a href="#cloud"><span title="See entry on this page at § cloud" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cloud</span></a> and/or <a href="#fractus"><span title="See entry on this page at § fractus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">fractus</span></a> extending from a <a href="#wall_cloud"><span title="See entry on this page at § wall cloud" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">wall cloud</span></a> toward the precipitation core.</dd>
@@ -1365,8 +1326,6 @@
 <dd class="glossary">An acronym for <i>Tactical Weather-Instrumented Sampling in/near Tornadoes EXperiment</i>.</dd>
 <dt class="glossary" id="typhoon" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Typhoon" title="Typhoon">typhoon</a></dfn></dt>
 <dd class="glossary">The local name for a <a href="#tropical_cyclone"><span title="See entry on this page at § tropical cyclone" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tropical cyclone</span></a> that occurs in the northwestern Pacific Ocean, between 180° and 100°E in the Northern Hemisphere.</dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="unstable_air_mass" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Convective_instability" title="Convective instability">unstable air mass</a></dfn></dt>
 <dd class="glossary">Any <a href="#air_mass"><span title="See entry on this page at § air mass" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">air mass</span></a> with high <a href="#convective_instability"><span title="See entry on this page at § convective instability" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">convective instability</span></a>, characterized by dramatic vertical <a href="#air_current"><span title="See entry on this page at § air current" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">air currents</span></a>.</dd>
 <dt class="glossary" id="updraft" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vertical_draft" title="Vertical draft">updraft</a></dfn></dt>
@@ -1388,8 +1347,6 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="university_corporation_for_atmospheric_research_(ucar)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/University_Corporation_for_Atmospheric_Research" title="University Corporation for Atmospheric Research">University Corporation for Atmospheric Research</a> (UCAR)</dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="valley_breeze" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mountain_breeze_and_valley_breeze" title="Mountain breeze and valley breeze">valley breeze</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="valley_exit_jet" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Valley_exit_jet" title="Valley exit jet">valley exit jet</a></dfn></dt>
@@ -1433,8 +1390,6 @@
 <dd class="glossary">A region within a fluid in which the flow revolves around an axis line, which may be straight or curved. Vortices are a major component of <a href="#turbulence"><span title="See entry on this page at § turbulence" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">turbulence</span></a> and may be observed in many types of meteorological phenomena, including the winds surrounding a <a href="#tropical_cyclone"><span title="See entry on this page at § tropical cyclone" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tropical cyclone</span></a>, <a href="#tornado"><span title="See entry on this page at § tornado" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tornado</span></a>, or <a href="#dust_devil"><span title="See entry on this page at § dust devil" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">dust devil</span></a>.</dd>
 <dt class="glossary" id="vorticity" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vorticity" title="Vorticity">vorticity</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="wall_cloud" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Wall_cloud" title="Wall cloud">wall cloud</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>murus</b> or a <b>pedestal cloud</b>.</span></p>
 <dd class="glossary">A large, localized, persistent, and often abrupt lowering of <a href="#cloud"><span title="See entry on this page at § cloud" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cloud</span></a> that develops beneath the surrounding base of a <a href="#cumulonimbus"><span title="See entry on this page at § cumulonimbus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cumulonimbus</span></a> cloud and from which <a href="#tornado"><span title="See entry on this page at § tornado" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tornadoes</span></a> sometimes form.</dd>
@@ -1524,18 +1479,12 @@
 <dd class="glossary"></dd>
 <dt class="glossary" id="world_meteorological_organization_(wmo)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">World Meteorological Organization</a> (WMO)</dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="x_band" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/X_band" title="X band">X band</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="yellow_wind" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Asian_Dust" title="Asian Dust">yellow wind</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="younger_dryas" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Younger_Dryas" title="Younger Dryas">Younger Dryas</a></dfn></dt>
 <dd class="glossary"></dd>
-</dl>
-<dl class="glossary">
 <dt class="glossary" id="z-r_relation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Weather_radar#Reflectivity_(in_decibel_or_dBZ)" title="Weather radar">Z-R relation</a></dfn></dt>
 <dd class="glossary"></dd>
 <dt class="glossary" id="zdr" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Weather_radar#Polarization" title="Weather radar">Zdr</a></dfn></dt>
@@ -1551,4 +1500,3 @@
 <dt class="glossary" id="zud" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zud" title="Zud">zud</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also spelled <b>dzud</b>.</span></p>
 <dd class="glossary"></dd>
-</dl>
